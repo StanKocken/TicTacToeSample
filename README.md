@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-The example of the  [Presentation pattern](https://github.com/StanKocken/Presentation/pulls) into my talk at the DroidCon Paris 2015.
+The example of the  [Presentation pattern](https://github.com/StanKocken/Presentation/) into my talk at the DroidCon Paris 2015.
 
 ## What's inside
 
